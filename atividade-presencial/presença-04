@@ -1,0 +1,27 @@
+PRESNEÇA 04
+
+a) Entidade;
+
+Representação abstrata de um objeto do mundo real.
+
+b) Relacionamento;
+
+Uma conexão estabelecida entre as entidades.
+
+c) Atributo;
+
+Elemento de dado que contém o valor de uma propreidade de uma entidade.
+
+d) Dominio de um Atributo;
+
+Refina o conjunto de valores permitidos para o atributo.
+
+e) Generalização/especialização;
+
+Um conjunto-entidade que pode ser divididos em categorias, cada qual com atributos específicos. 
+
+f) Entidade Associativa;
+
+São tabelas que podem conter referências a colunas de tabelas do mesmo ou de outros bancos de dados.
+
+g) Cardinalidade de um Atributo.
